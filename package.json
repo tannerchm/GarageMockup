@@ -1,0 +1,14 @@
+{
+  "name": "garage-mockup",
+  "version": "1.0.0",
+  "description": "mockup of garage go",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.6.0"
+  }
+}

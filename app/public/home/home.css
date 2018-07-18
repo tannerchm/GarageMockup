@@ -1,0 +1,21 @@
+body {
+   background-image: url("../assets/images/scratches.png") 
+}
+.jumbotron {
+    background-image: url("../assets/images/garage1.jpg");
+    width: 100%;
+    max-height: 100%;
+    height: 70vh;
+}
+
+
+.navbar-default{
+    background:transparent;
+    background-image:none;
+    border-color:transparent;
+    box-shadow:none;
+  }.navbar-default{   background:transparent;   background-image:none;   border-color:transparent;   box-shadow:none;
+
+    .card {
+        padding-right: 23px;
+    }
